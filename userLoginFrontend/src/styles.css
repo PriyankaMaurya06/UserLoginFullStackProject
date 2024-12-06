@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background-position: center;
+    height: 100%;
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20230718/pngtree-3d-rendered-login-page-templates-with-a-modern-realistic-twist-image_3904125.jpg");
+    background-size: cover;
+}

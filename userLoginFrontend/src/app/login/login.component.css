@@ -1,0 +1,62 @@
+.login-container {
+    width: 350px;
+    height:400px;
+    margin: 100px auto;
+    padding: 50px 80px 80px 50px;
+    border: 1px double rgb(3, 3, 73);
+    border-radius: 50px;
+    background-color: rgba(15, 223, 246, 0.447);
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  input.form-control {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 2px solid black;
+    border-radius: 20px;
+  }
+  
+  button.btn {
+    width: 105%;
+    padding: 10px;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  button.btn:disabled {
+    background-color: rgb(27, 103, 178);
+  }
+  
+  .error {
+    color: red;
+    font-size: 12px;
+  }
+
+  .sign-up{
+    margin-top: 15px;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    border:1px solid black;
+    background-color: palegreen;
+    padding: 10px;
+    width: 100%;
+    height:20%;
+    border-radius: 10px;
+    
+  }
+  
